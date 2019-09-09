@@ -12,6 +12,7 @@ This is a tutorial page for CSC 577. The course page is https://www.cs.rochester
     - How to write a network.
     -  How to write the training code.
     -  How to write the testing code.
+    － How to modify a network to write your own code.
 
 #### Google Cloud Tutorial
 
