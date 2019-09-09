@@ -1,17 +1,17 @@
 # csc577 tutorials
-This is a tutorial page for csc 577. The course page is https://www.cs.rochester.edu/~cxu22/t/577F19/. This tutorial is devided into tow parts: 
-- 1) Google cloud GPU computing engine tutorial
+This is a tutorial page for CSC 577. The course page is https://www.cs.rochester.edu/~cxu22/t/577F19/. This tutorial is divided into two parts: 
+-  Google cloud GPU computing engine tutorial
     - How to start with google cloud.
-    - How to access google cloud gpu computing engine
+    - How to access the google cloud GPU computing engine.
     - How to use conda to create your working environment. 
     - How to use [screen](https://help.ubuntu.com/community/Screen)  to run your code.
 
-- 2) Pytorch tutorial, which including code explaination.
-  - Pix2Pix code explaination and how to extend GAN to conditional GAN.
-    - How to compose dataloader. 
-    - How to write network.
-    -  How to write train code.
-    -  How to write test code.
+- Pytorch tutorial, which including code explanation.
+  - Pix2Pix code explanation(including how to extend GAN to conditional GAN).
+    - How to compose data loader.
+    - How to write a network.
+    -  How to write the training code.
+    -  How to write the testing code.
 
 #### Google Cloud Tutorial
 
