@@ -15,11 +15,11 @@ This is a tutorial page for csc 577. The course page is https://www.cs.rochester
 
 #### Google Cloud Tutorial
 
-  - Please visit [Google Cloud](https://github.com/lelechen63/google_cloud_tutorial) for details.
+  - Please visit [Google Cloud Tutorial](https://github.com/lelechen63/google_cloud_tutorial) for details.
   - Annaconda document can be found at [minicoda](https://docs.conda.io/en/latest/miniconda.html)
 #### Pytorch Tutorial
   - Pytorch Documente can be found at [pytorch doc](https://pytorch.org/docs/stable/index.html)
   - The Code is at [pix2pix](https://github.com/lelechen63/pix2pix-pytorch)
 
 #### More techniches
--  Please visit [ATVG](https://github.com/lelechen63/ATVGnet)
+-  Please visit [ATVG](https://github.com/lelechen63/ATVGnet).
